@@ -1,3 +1,9 @@
 [build]
   publish = "dist"
   command = "yarn generate"
+
+[[redirects]]
+  from = "/*"
+  to = "https://medium.com/@dawid.golebiewski"
+  status = 301
+  force = false
