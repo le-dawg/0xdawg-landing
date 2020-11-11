@@ -9,7 +9,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          :src="robotech"
+          src="robotech"
         />
       </div>
     </div>
