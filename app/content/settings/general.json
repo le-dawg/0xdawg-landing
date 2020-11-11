@@ -1,11 +1,11 @@
 {
-  "title": "Home",
-  "titleTemplate": "| 0xponential thinking",
-  "welcomeText": "# I'm Dawid G. Horacy. Welcome to my private site. \n\nI write about exponential thinking in relation to emerging economic models enabled by the new Blockchain Economy since 2016. \\\n\\\nProfessionally I facilitate, design and advise with startups at the intersection of Applied Machine Learning and Distributed Ledger Technologies.",
-  "logo": "/images/uploads/logo.svg",
   "robotech": "/images/uploads/robotech_dawid.png",
-  "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "The Exponential Blog by 0xdawg.",
-  "seoMetaImage": ""
+  "logo": "/images/uploads/logo.png",
+  "welcomeText": "# I'm Dawid G. Horacy. Welcome to my DNS placeholder site.\n\nI write about exponential thinking in relation to emerging economic models enabled by the new blockchain-enabled economy since 2017. \n\n**[Click here to be redirected if the redirect does not work. ](https://medium.com/@dawid.golebiewski)**\n\nProfessionally I facilitate, design and advise with startups at the intersection of Applied Machine Learning, Distributed Ledger Technologies and the Digital Transition.",
+  "titleTemplate": "| 0xponential thinking",
+  "title": "Home",
+  "icon": "/images/uploads/logo.png",
+  "seoMetaImage": "",
+  "seoDescription": "The Exponential Blog by 0xdawg."
 }
