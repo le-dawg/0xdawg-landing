@@ -1,10 +1,10 @@
 {
   "title": "Home",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
+  "titleTemplate": "| 0xponential thinking",
+  "welcomeText": "# I'm Dawid G. Horacy. Welcome to my private site. \n\nI write about exponential thinking in relation to emerging economic models enabled by the new Blockchain Economy since 2016. \\\n\\\nProfessionally I facilitate, design and advise with startups at the intersection of Applied Machine Learning and Distributed Ledger Technologies.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "The Exponential Blog by 0xdawg.",
   "seoMetaImage": ""
 }
