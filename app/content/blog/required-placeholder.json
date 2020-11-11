@@ -1,0 +1,5 @@
+{
+  "publishedAt": "11th Nov 2020",
+  "title": "Required Placeholder",
+  "content": "One of the main downsides of the JAMStack and the CMSes that help users rule over their content is fragility. Removing all blog posts leads to an empty list somewhere in the build process. Instead of having code that is **ROBUST AGAINST EMPTY LISTS** the nuxt.js builder fails. \\\n\\\nA good solution from the user/dev perspective would be if this compiled correctly and simply didn't list the **Blog** section at all. Yet, removing the need for the blog section (or adding a new one) requires **DEEP** interference with the code in several, undocumented points in the repository."
+}
