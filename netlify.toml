@@ -3,7 +3,7 @@
   command = "yarn generate"
 
 [[redirects]]
-  from = "*"
+  from = "/*"
   to = "https://medium.com/@dawid.golebiewski"
   status = 301
   force = false
