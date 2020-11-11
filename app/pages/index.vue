@@ -6,11 +6,13 @@
 
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
+        <nuxt-link to="https://medium.com/@dawid.golebiewski">
         <img
           alt="Hero"
           class="rounded shadow-xl"
           src="robotech"
         />
+      </nuxt-link>
       </div>
     </div>
   </section>
