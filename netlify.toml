@@ -1,3 +1,9 @@
 [build]
   publish = "dist"
   command = "yarn generate"
+
+[[redirects]]
+  from = "https://suspicious-kilby-09033b.netlify.app"
+  to = "https://medium.com/@dawid.golebiewski"
+  status = 301
+  force = true
