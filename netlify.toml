@@ -5,5 +5,5 @@
 [[redirects]]
   from = "https://suspicious-kilby-09033b.netlify.app"
   to = "https://medium.com/@dawid.golebiewski"
-  status = 301
-  force = false
+  status = 200
+  force = true
