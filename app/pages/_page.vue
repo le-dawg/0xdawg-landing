@@ -36,13 +36,6 @@ import { MetaInfo } from 'vue-meta';
           name: 'og:image',
           content: this.page.seoMetaImage,
         },
-        {
-          hid: 'lol',
-          http-equiv: 'refresh',
-          name: 'lol',
-          content: '5',
-          url: 'https://medium.com/@dawid.golebiewski',
-        }
       ],
     };
   },
