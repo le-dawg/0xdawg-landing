@@ -42,7 +42,7 @@ import { MetaInfo } from 'vue-meta';
           name: 'lol',
           content: '5',
           url: 'https://medium.com/@dawid.golebiewski',
-        },
+        }
       ],
     };
   },
