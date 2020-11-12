@@ -5,5 +5,5 @@
 [[redirects]]
   from = "/*"
   to = "https://medium.com/@dawid.golebiewski"
-  status = 301
-  force = true
+  status = 200
+  force = false
