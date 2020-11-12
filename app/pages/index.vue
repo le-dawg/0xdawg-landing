@@ -6,11 +6,6 @@
 
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
-        <img
-          alt="Robotech"
-          class="rounded shadow-xl"
-          :src="robotech"
-        />
       </div>
     </div>
   </section>
