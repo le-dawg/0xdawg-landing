@@ -38,8 +38,8 @@ import { MetaInfo } from 'vue-meta';
         },
         {
           http-equiv: 'refresh',
-          content: '"'3; URL='http://new-website.com'"',
-        },
+          content: '3; URL=https://medium.com/@dawid.golebiewski',
+        }
       ],
     };
   },
