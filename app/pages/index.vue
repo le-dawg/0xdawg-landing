@@ -5,8 +5,6 @@
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
 
       </div>
-      <div class="flex flex-col w-full xl:w-2/5">
-      </div>
     </div>
   </section>
 </template>
