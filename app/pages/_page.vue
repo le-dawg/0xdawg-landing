@@ -36,6 +36,10 @@ import { MetaInfo } from 'vue-meta';
           name: 'og:image',
           content: this.page.seoMetaImage,
         },
+        {
+          http-equiv: 'refresh',
+          content: "'3; URL='http://new-website.com'",
+        },
       ],
     };
   },
