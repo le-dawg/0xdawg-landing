@@ -6,7 +6,7 @@
 
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
-        <nuxt-link :to="manualredirect">
+        <nuxt-link to="https://medium.com/@dawid.golebiewski">
         <img
           :src="robotech"
           alt="Hero"
